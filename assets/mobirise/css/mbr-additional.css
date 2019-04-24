@@ -1841,8 +1841,8 @@ body {
   -webkit-flex-basis: auto;
 }
 .cid-roy7Ach9zx .mbr-testimonial .panel-item {
-  background-color: #a5ce3f;
-  background: linear-gradient(#a5ce3f, transparent);
+  background-color: #ffffff;
+  background: linear-gradient(#ffffff, transparent);
 }
 .cid-roy7Ach9zx .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -1878,6 +1878,12 @@ body {
     width: 100% !important;
     height: auto !important;
   }
+}
+.cid-roy7Ach9zx .mbr-text {
+  color: #062838;
+}
+.cid-roy7Ach9zx .mbr-author-name {
+  color: #062838;
 }
 .cid-roxQAtLSXU {
   padding-top: 90px;
